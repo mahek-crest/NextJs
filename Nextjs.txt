@@ -1,0 +1,14 @@
+Key Features of NextJS
+
+1. Automatic server-side Rendering
+  - Automatic page pre-rendering: great for seo and inital load
+
+2. Blending client and server side : Fetch data o the server and render finished pages
+
+3. File based routing
+  - Define pages and routes with files  and folders instead of code (similar to html and css linking of pages through href attribute)
+  - less code and highly understandable 
+
+4. Fullstack capabilitites 
+  - easily add backend code to next js/ react apps
+  - Storing data, getting data, authentication , etc can be added to react apps 

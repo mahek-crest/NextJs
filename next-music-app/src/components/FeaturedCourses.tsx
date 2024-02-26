@@ -1,4 +1,5 @@
 "use client";
+import React from "react";
 import Link from "next/link";
 import courseData from "../data/music_courses.json";
 import { BackgroundGradient } from "./ui/background-gradient";
@@ -60,7 +61,7 @@ const FeaturedCourses = () => {
             className="px-4 py-2 rounded-lg border border-neutral-600 text-neutral-700 bg-white font-bold hover:bg-gray-100 transition duration-200"
           >
             View All courses
-          </Link>{" "}
+          </Link>
         </div>
       </div>
     </>
